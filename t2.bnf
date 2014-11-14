@@ -1,0 +1,7 @@
+R=S {S}.
+S=F | A.
+F= "p" "s" "o" "?" .
+A= "s" "p" "o" "." .
+$
+R
+spo.spo.pso?pso?spo.pso?pso?spo.

@@ -1,0 +1,11 @@
+# Microsoft Developer Studio erstellte Abhängigkeitsdatei, einbezogen von bnfParser.mak
+
+.\bnfparser.c : \
+	".\bnfmain.h"\
+	".\bnfparser.h"\
+	
+
+.\parsermain.c : \
+	".\bnfparser.h"\
+	".\parsermain.h"\
+	
